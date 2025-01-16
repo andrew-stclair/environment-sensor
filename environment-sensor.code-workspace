@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Jedi",
+		"python.autoComplete.extraPaths": [
+			"./typings",
+			"./lib"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-python.python",
+      "paulober.pico-w-go"
+		]
+	}
+}
